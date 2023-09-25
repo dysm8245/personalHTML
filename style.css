@@ -1,0 +1,18 @@
+
+/* position: fixed;
+width: 100%;
+top: 0; */
+
+.gold{
+    color: gold;
+}
+.logo{
+    width: 200px;
+    height: 200px;
+}
+body{
+    background-color: black;
+}
+.gray{
+    background-color: grey;
+}
